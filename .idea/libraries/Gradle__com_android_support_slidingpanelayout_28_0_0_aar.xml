@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:slidingpanelayout:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/caches/transforms-2/files-2.1/21af2e3b1bf09d7992eef52b21583abe/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.m2/repository/caches/transforms-2/files-2.1/21af2e3b1bf09d7992eef52b21583abe/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             Intent intent = new Intent(this, BluetoothPageActivity.class);
             startActivity(intent);
         } else if (position == 1) {
-
+            Toast.makeText(this, "1", Toast.LENGTH_LONG).show();
             Toast.makeText(this, "2", Toast.LENGTH_SHORT).show();
         }
     }
